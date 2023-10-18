@@ -1,0 +1,3 @@
+# Email-Client
+The Java-based email app application is a powerful tool that allows users to manage their emails efficiently. With an intuitive user interface, it provides features like composing, sending, receiving, organizing, and searching emails. Users can create multiple email accounts, customize settings, and synchronize their messages for seamless access across devices. The application ensures secure communication through encryption and implements features for spam filtering and email categorization, enhancing overall productivity and communication experience for the users.
+youtube link : https://www.youtube.com/watch?v=4vepAXW9Cz0&t=3s
